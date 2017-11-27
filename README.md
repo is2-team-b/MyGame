@@ -18,7 +18,7 @@ Aqui estan los editables de los screens.
 
 - ejecutable:
 
-Para ejecutar el juego, dirigirse a '/MedievalBrawler/__init__.exe'
+Para ejecutar el juego, dirigirse a ```/MedievalBrawler/__init__.exe```
 
 
 - venv-api:
