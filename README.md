@@ -15,6 +15,10 @@ Aqui estan el product y sprint Backlog, el diagrama de despliegue, el test plan 
 
 Aqui estan los editables de los screens.
 
+- smells:
+
+Screenshots de los code smells críticos de Medieval Brawler 
+
 
 - ejecutable:
 
