@@ -17,7 +17,11 @@ Aqui estan los editables de los screens.
 
 - smells:
 
-Screenshots de los code smells críticos de Medieval Brawler 
+Screenshots de los code smells críticos de Medieval Brawler
+
+- unittests:
+
+Screenshots de las pruebas unitarias correspondientes a los 3 code smells seleccionados
 
 
 - ejecutable:
