@@ -6,9 +6,6 @@ Las 3 pruebas unitarias se encuentran en el branch de unittests del repositorio 
 El pantallazo de la ejecución de las pruebas unitarias correspondientes a los 
 code smells 1 y 2 de la carpeta smells es la imagen unittest_1y2_smell_1y2.png
 
-Class -> Test Class
-Character -> TestCharacter
-
 
 | Unit test     | Module 		| Class      | Function  | TestModule 	    | TestClass 	|     TestFunction       |                    
 | :-----------: |:-------------:| :---------:|:---------:|:----------------:|:-------------:|:----------------------:|
